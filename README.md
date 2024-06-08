@@ -8,11 +8,15 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ## 🚀 Skills & Technologies
 
-- **Languages:** JavaScript, TypeScript, Ruby, Python, HTML, CSS
-- **Frameworks & Libraries:** React, Next.js, Node.js, Express, Ruby on Rails, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, Docker, Heroku, VS Code
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Other:** Algorithm challenges on HackerRank, Automation with TypeScript
+- **Languages:** JavaScript, TypeScript, Java, PHP, SQL, PL/SQL, HTML5, CSS3, XML, Shell
+- **Frameworks & Libraries:** React, React-Native, Next.js, Nest.js, Spring Boot, Spring Data, Spring JPA, Hibernate, Vue.js, Symfony, Spryker, ElasticSearch
+- **Platforms:** Node.js
+- **Web Services:** REST, GraphQL, SOAP
+- **Databases:** Oracle, MySQL, PostgreSQL, MongoDB, Elastic Cloud Storage (ECS)
+- **Tools:** Nvm, Git, Yarn, IntelliJ, PhpStorm, Visual Studio Code, Postman, SoapUI, MySQL, Adminer, Jira, Gitlab, Android Studio
+- **Methodologies:** Agile Scrum
+- **CI/CD:** Docker, Jenkins
+- **Systems:** Windows, Linux
 
 ## 🌱 Currently Learning
 
@@ -22,14 +26,35 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ## 👨‍💻 Projects
 
-### 🔥 [Project 1: Code Rover Enhancements](https://github.com/yourusername/project1)
-Enhancing and refactoring a Node.js/Express application for a smoother and more efficient user experience.
+### 🔥 [Project 1: Akata GOAVANA](https://github.com/Jean-Jacques-Augustin/Akata-GOAVANA)
+- **Role:** FullStack Developer
+- **Description:** Creation of a B2B marketplace
+- **Technologies:** PHP, JS, HTML, CSS, Twig, Symfony, SprykerOS
+- **Responsibilities:** Frontend development, module integration, agile rituals, user stories
 
-### 🚀 [Project 2: AKATA GOAVANA](https://github.com/yourusername/project2)
-A tech domain placeholder image project using only #001751 and #ffba13 colors.
+### 🚀 [Project 2: Human Financial](https://github.com/Jean-Jacques-Augustin/Human-Financial)
+- **Role:** Developer
+- **Description:** Cryptocurrency portfolio management application
+- **Technologies:** PHP, JS, HTML, CSS, Twig, TypeScript, Symfony, VueJS
+- **Responsibilities:** Frontend development, agile rituals, user stories, testing
 
-### 🎨 [Project 3: Dynamic React Components](https://github.com/yourusername/project3)
-Adding animations and interactive arrows to React components using Tailwind CSS.
+### 🎨 [Project 3: MIS Épice de Madagascar](https://github.com/Jean-Jacques-Augustin/MIS-Epice)
+- **Role:** Lead Developer
+- **Description:** Creation of an e-commerce site
+- **Technologies:** TypeScript, MongoDB, HTML, CSS, Next.js, React.js, Express.js, Redux
+- **Responsibilities:** Needs analysis, site conception, frontend and backend development, API consumption, versioning, unit testing, project management
+
+### 📚 [Project 4: Fordisco-ius](https://github.com/Jean-Jacques-Augustin/Fordisco-ius)
+- **Role:** Lead Developer
+- **Description:** Online education platform with resource purchasing
+- **Technologies:** TypeScript, MongoDB, HTML, CSS, React.js, Express.js, GraphQL, Redux
+- **Responsibilities:** Needs analysis, site conception, frontend and backend development, API consumption, versioning, unit testing, project management
+
+### 🏢 [Project 5: Anakao Hotels & Resort](https://github.com/Jean-Jacques-Augustin/Anakao)
+- **Role:** Java Developer
+- **Description:** Creation of an accounting application
+- **Technologies:** Java, SQL, JavaFX, Hibernate, PostgreSQL
+- **Responsibilities:** Needs analysis, application conception, user stories, full application development
 
 ## ✨ Fun Facts
 
@@ -39,14 +64,13 @@ Adding animations and interactive arrows to React components using Tailwind CSS.
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Augustin](https://www.linkedin.com/in/yourusername)
-- **Twitter:** [@yourusername](https://twitter.com/yourusername)
-- **Email:** your.email@example.com
+- **LinkedIn:** [Jean Jacques Augustin](https://www.linkedin.com/in/jean-jacques-augustin)
+- **GitHub:** [Jean Jacques Augustin](https://github.com/Jean-Jacques-Augustin)
+- **Email:** rjja@outlook.fr
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jean-Jacques-Augustin&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Jacques-Augustin&layout=compact&theme=radical)
 
 ---
 
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
