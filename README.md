@@ -32,8 +32,11 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ## 📊 GitHub Stats
 
-![Augustin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean-Jacques-Augustin&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Jacques-Augustin&layout=compact&theme=radical)
+![Augustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
+![Augustin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&count_private=true)
+![Augustin's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&count_private=true)
+![Augustin's Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&count_private=true)
+
 
 ## 📫 Get in Touch
 
