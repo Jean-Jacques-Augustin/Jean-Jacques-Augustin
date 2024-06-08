@@ -27,12 +27,12 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,ruby,python,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,ruby,python,html,css,java,bash,php" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,rails,tailwind" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,rails,tailwind,laravel,symfony,spring" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
