@@ -74,6 +74,12 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ---
 
+## 📄 Download My Resume
+
+[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](/path/to/your/resume.pdf)
+
+---
+
 ## 💬 Quote
 
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
