@@ -32,12 +32,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Web Services
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=rest,graphql,soap" alt="Web Services" />
-</div>
-
-### Methodologies & CI/CD
-<div align="start">
-  <img src="https://skillicons.dev/icons?i=agile,jenkins" alt="Methodologies & CI/CD" />
+  <img src="https://skillicons.dev/icons?i=api,graphql" alt="Web Services" />
 </div>
 
 ### Systems
