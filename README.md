@@ -17,12 +17,12 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,phpstorm,vscode,postman,intellijidea" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,phpstorm,vscode,postman,eclipse" alt="Tools & Platforms" />
 </div>
 
 ### Databases
@@ -32,7 +32,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Web Services
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=api,graphql" alt="Web Services" />
+  <img src="https://skillicons.dev/icons?i=graphql" alt="Web Services" />
 </div>
 
 ### Systems
