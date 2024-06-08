@@ -63,17 +63,6 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="Augustin's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&count_private=true" alt="Augustin's Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&count_private=true" alt="Augustin's Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&count_private=true" alt="Augustin's Trophies" />
-</div>
-
----
-
 ## 📄 Download My Resume
 
 <div align="center">
