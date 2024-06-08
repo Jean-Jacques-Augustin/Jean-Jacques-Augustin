@@ -11,22 +11,22 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 ## 🚀 Skills & Technologies
 
 ### Languages
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,linux,sql,oracle" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=react,nextjs,spring,vue,symfony,elasticsearch" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,vscode,intellij,jira" alt="Tools & Platforms" />
 </div>
 
 ### Databases
-<div align="center">
+<div align="start">
   <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb" alt="Databases" />
 </div>
 
