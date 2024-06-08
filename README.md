@@ -12,7 +12,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,sql,java,ruby,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,java,ruby,bash" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
