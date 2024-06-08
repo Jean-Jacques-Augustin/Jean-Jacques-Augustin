@@ -24,25 +24,28 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 - Diving deeper into Ruby on Rails
 - Exploring AI and Machine Learning
 
+## 🌱 Currently Learning
+
+- Advanced TypeScript for automation
+- Diving deeper into Ruby on Rails
+- Exploring AI and Machine Learning
+
 ## ✨ Fun Facts
 
 - I spend my free time solving algorithm challenges on HackerRank.
 - Balancing the worlds of law and technology gives me a unique edge in problem-solving.
 - Always on the lookout for the next big challenge to conquer.
 
-## 📊 GitHub Stats
+## 📊 Languages
 
-![Augustin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true)
-![Augustin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&count_private=true)
-![Augustin's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&count_private=true)
-![Augustin's Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&count_private=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Jacques-Augustin&layout=compact&theme=radical)
 
 ## 📫 Get in Touch
 
 - **LinkedIn:** [Jean Jacques Augustin](https://www.linkedin.com/in/jean-jacques-augustin)
 - **GitHub:** [Jean Jacques Augustin](https://github.com/Jean-Jacques-Augustin)
 - **Email:** rjja@outlook.fr
+
 
 ---
 
