@@ -22,7 +22,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Tools & Platforms
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,intellij,phpstorm,vscode,postman" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,rubymine,phpstorm,vscode,postman,intellijidea" alt="Tools & Platforms" />
 </div>
 
 ### Databases
