@@ -27,7 +27,7 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,ruby,python,html,css,java,bash,php" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,ruby,html,css,java,bash,php" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
