@@ -17,7 +17,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,vue,symfony,elasticsearch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
@@ -27,7 +27,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Databases
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </div>
 
 ---
