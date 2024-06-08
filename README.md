@@ -12,12 +12,12 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,xml,shell,sql,java,ruby" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,sql,java,ruby,bash" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs,spring,vue,symfony,elasticsearch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
