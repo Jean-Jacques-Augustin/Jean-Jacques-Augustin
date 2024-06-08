@@ -12,22 +12,37 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,linux,sql,oracle" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,xml,shell,sql,java,ruby" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nestjs,spring,vue,symfony,elasticsearch" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,vscode,intellij,jira" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,intellij,phpstorm,vscode,postman" alt="Tools & Platforms" />
 </div>
 
 ### Databases
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb" alt="Databases" />
+</div>
+
+### Web Services
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=rest,graphql,soap" alt="Web Services" />
+</div>
+
+### Methodologies & CI/CD
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=agile,jenkins" alt="Methodologies & CI/CD" />
+</div>
+
+### Systems
+<div align="start">
+  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Systems" />
 </div>
 
 ---
@@ -50,7 +65,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ## 📫 Get in Touch
 
-<div align="center">
+<div align="start">
   <a href="https://www.linkedin.com/in/jean-jacques-augustin">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -70,7 +85,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ---
 
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Jacques-Augustin&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
