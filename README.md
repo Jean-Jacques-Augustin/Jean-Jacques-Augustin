@@ -1,6 +1,5 @@
 # 🌟 Augustin's Code Universe 🌟
 
-![Header](https://your-header-image-url.com)
 
 ### Hi there, I'm Augustin 👋
 
@@ -8,36 +7,42 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ---
 
+## 📫 Get in Touch
+
+<div align="start">
+  <a href="https://www.linkedin.com/in/jean-jacques-augustin">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Jean-Jacques-Augustin">
+    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rjja@outlook.fr">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
 ## 🚀 Skills & Technologies
 
 ### Languages
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,php,html,css,java,ruby,bash" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,ruby,python,html,css" alt="Languages" />
 </div>
 
 ### Frameworks & Libraries
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,spring,vue,symfony,laravel,elasticsearch" alt="Frameworks & Libraries" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,rails,tailwind" alt="Frameworks & Libraries" />
 </div>
 
 ### Tools & Platforms
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,yarn,phpstorm,vscode,postman,eclipse" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,heroku,vscode" alt="Tools & Platforms" />
 </div>
 
 ### Databases
 <div align="start">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
-</div>
-
-### Web Services
-<div align="start">
-  <img src="https://skillicons.dev/icons?i=graphql" alt="Web Services" />
-</div>
-
-### Systems
-<div align="start">
-  <img src="https://skillicons.dev/icons?i=linux,windows" alt="Systems" />
 </div>
 
 ---
@@ -58,25 +63,24 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 
 ---
 
-## 📫 Get in Touch
+## 📊 GitHub Stats
 
-<div align="start">
-  <a href="https://www.linkedin.com/in/jean-jacques-augustin">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Jean-Jacques-Augustin">
-    <img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:rjja@outlook.fr">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true" alt="Augustin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&count_private=true" alt="Augustin's Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&count_private=true" alt="Augustin's Streak Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&count_private=true" alt="Augustin's Trophies" />
 </div>
 
 ---
 
 ## 📄 Download My Resume
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive)](/path/to/your/resume.pdf)
+<div align="center">
+  <a href="/path/to/your/resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=google-drive" alt="Download Resume" />
+  </a>
+</div>
 
 ---
 
@@ -85,4 +89,3 @@ I'm a passionate developer and law student 🚀. My journey in the tech world ha
 “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 ---
-
