@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Augustin 👋
 
-I'm a passionate developer and law student, currently working at Code Rover 🚀. My journey in the tech world has been a blend of legal studies and software development, creating a unique perspective on solving problems and building innovative solutions.
+I'm a passionate developer and law student 🚀. My journey in the tech world has been a blend of legal studies and software development, creating a unique perspective on solving problems and building innovative solutions.
 
 ---
 
