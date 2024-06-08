@@ -27,7 +27,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ### Databases
 <div align="start">
-  <img src="https://skillicons.dev/icons?i=oracle,mysql,postgres,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" alt="Databases" />
 </div>
 
 ### Web Services
@@ -76,11 +76,7 @@ I'm a passionate developer and law student, currently working at Code Rover 🚀
 
 ## 💬 Quote
 
-“Code is like humor. When you have to explain it, it’s bad.” – Cory House
+“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” – Martin Fowler
 
 ---
-
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Jacques-Augustin&layout=compact&theme=radical" alt="Top Languages"/>
-</div>
 
